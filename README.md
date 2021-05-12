@@ -3,6 +3,6 @@ A stats checking app for stick arena that I made some time ago for mobile platfo
 
 # How does the app look like?
 
-Main page: ![alt text](https://github.com/Michal2SAB/StickArena-Mobile-Stats-Checker/blob/main/main.jpg?raw=true)
+![alt text](https://github.com/Michal2SAB/StickArena-Mobile-Stats-Checker/blob/main/main.jpg?raw=true)
 
-Stats checking page: ![alt text](https://github.com/Michal2SAB/StickArena-Mobile-Stats-Checker/blob/main/second.jpg?raw=true)
+![alt text](https://github.com/Michal2SAB/StickArena-Mobile-Stats-Checker/blob/main/second.jpg?raw=true)
