@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stick Arena Stats Checker @Michal</string>
+    <string name="generate_button">GET STATS</string>
+    <string name="label_text">Account Name</string>
+    <string name="fail1">Something went wrong. Could not look up stats.</string>
+    <string name="fail2">User does not exist on stick arena!</string>
+</resources>
