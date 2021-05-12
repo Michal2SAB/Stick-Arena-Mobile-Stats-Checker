@@ -1,2 +1,2 @@
 # StickArena-Mobile-Stats-Checker
-A stats checking app for stick arena I made some time ago for mobile (android) in android studio.
+A stats checking app for stick arena that I made some time ago for mobile platform (android) in android studio. In Java.
